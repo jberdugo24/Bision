@@ -1,0 +1,13 @@
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csprojAssemblyReference.cache
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Form1.resources
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Presentación.FrmCalculoSalarial.resources
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Presentación.FrmClientes.resources
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Presentación.frmFibonacci.resources
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.Properties.Resources.resources
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.GenerateResource.cache
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+C:\Users\jberd\source\repos\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
